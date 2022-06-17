@@ -1,3 +1,3 @@
 # first
 nothing special is here
-is was a bad idea
+it was a bad idea
